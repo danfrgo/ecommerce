@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Danie\\Desktop\\ecommerceproj\\siteproj\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\Danie\\Desktop\\ecommerceproj\\siteproj\\api\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\Danie\\Desktop\\ecommerceproj\\siteproj\\API\\API.csproj",
+      "projectPath": "C:\\Users\\Danie\\Desktop\\ecommerceproj\\siteproj\\api\\API.csproj",
       "packagesPath": "C:\\Users\\Danie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Danie\\Desktop\\ecommerceproj\\siteproj\\API\\obj\\",
+      "outputPath": "C:\\Users\\Danie\\Desktop\\ecommerceproj\\siteproj\\api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
