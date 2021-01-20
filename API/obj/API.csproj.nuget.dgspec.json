@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Danie\\Desktop\\ecommerceproj\\siteproj\\API\\API.csproj": {}
+    "C:\\Users\\Danie\\Desktop\\ecommerceproj\\siteproj\\api\\API.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Danie\\Desktop\\ecommerceproj\\siteproj\\API\\API.csproj": {
+    "C:\\Users\\Danie\\Desktop\\ecommerceproj\\siteproj\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Danie\\Desktop\\ecommerceproj\\siteproj\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\Danie\\Desktop\\ecommerceproj\\siteproj\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "c:\\Users\\Danie\\Desktop\\ecommerceproj\\siteproj\\API\\API.csproj",
+        "projectPath": "C:\\Users\\Danie\\Desktop\\ecommerceproj\\siteproj\\api\\API.csproj",
         "packagesPath": "C:\\Users\\Danie\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Danie\\Desktop\\ecommerceproj\\siteproj\\API\\obj\\",
+        "outputPath": "C:\\Users\\Danie\\Desktop\\ecommerceproj\\siteproj\\api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -47,6 +47,10 @@
               "target": "Package",
               "version": "[3.1.6, )"
             },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[3.1.6, )"
@@ -70,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.405\\RuntimeIdentifierGraph.json"
         }
       }
     }
