@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Danie\\Desktop\\ecommerceproj\\siteproj\\api\\API.csproj": {}
+    "C:\\Users\\Danie\\Desktop\\ecommerceproj\\siteproj\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Danie\\Desktop\\ecommerceproj\\siteproj\\api\\API.csproj": {
+    "C:\\Users\\Danie\\Desktop\\ecommerceproj\\siteproj\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Danie\\Desktop\\ecommerceproj\\siteproj\\api\\API.csproj",
+        "projectUniqueName": "C:\\Users\\Danie\\Desktop\\ecommerceproj\\siteproj\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\Danie\\Desktop\\ecommerceproj\\siteproj\\api\\API.csproj",
+        "projectPath": "C:\\Users\\Danie\\Desktop\\ecommerceproj\\siteproj\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Danie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Danie\\Desktop\\ecommerceproj\\siteproj\\api\\obj\\",
+        "outputPath": "C:\\Users\\Danie\\Desktop\\ecommerceproj\\siteproj\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

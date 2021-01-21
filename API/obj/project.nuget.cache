@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cO+8H42RA0Azk//TKJAyjhIozQjoahu6kuA37e1Gq2XrlunA8jgtiWb71HaBaKjMDQZpGgtz+YcQ4M6KDqGtfA==",
+  "dgSpecHash": "H6tXHbRNp+nsK/uOzfm5CY9NP71bZ/J2ZVRXPPJN1Qcx9woPTwZTBHFayMXP1iZVq3Ys747KygyhJhPMtkhXaQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Danie\\Desktop\\ecommerceproj\\siteproj\\api\\API.csproj",
+  "projectFilePath": "C:\\Users\\Danie\\Desktop\\ecommerceproj\\siteproj\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Danie\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Danie\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
