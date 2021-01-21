@@ -15,11 +15,10 @@ namespace Infrastructure.Data
         public DbSet<ProductType> ProductTypes { get; set; }
 
         // metodo responsavel por criar a migration
-        protected override void OnModelCreating(ModelBuilder modelBuilder){
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
             base.OnModelCreating(modelBuilder);
             modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
         }
-
-
     }
 }
