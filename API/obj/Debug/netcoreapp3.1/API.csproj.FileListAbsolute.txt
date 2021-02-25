@@ -65,3 +65,8 @@ C:\Users\Danie\Desktop\ecommerceproj\siteproj\API\obj\Debug\netcoreapp3.1\API.pd
 C:\Users\Danie\Desktop\ecommerceproj\siteproj\API\obj\Debug\netcoreapp3.1\API.genruntimeconfig.cache
 C:\Users\Danie\Desktop\ecommerceproj\siteproj\api\bin\Debug\netcoreapp3.1\AutoMapper.dll
 C:\Users\Danie\Desktop\ecommerceproj\siteproj\api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Danie\Desktop\ecommerceproj\siteproj\api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Danie\Desktop\ecommerceproj\siteproj\api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Danie\Desktop\ecommerceproj\siteproj\api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Danie\Desktop\ecommerceproj\siteproj\api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Danie\Desktop\ecommerceproj\siteproj\api\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cs
